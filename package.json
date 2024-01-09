@@ -1,10 +1,10 @@
 {
   "type": "module",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "main": "src/index.js"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "eslint": "^8.56.0",
     "jest": "^29.7.0",
     "prettier": "^3.1.1"
   }
